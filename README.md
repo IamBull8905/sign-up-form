@@ -1,1 +1,2 @@
 # sign-up-form
+This is the first of two projects in the intermediate HTML/CSS portion of The Odin Project. It has helped me demonstrate my ability to use html forms, style them as well as: positioning, importing custom fonts, different CSS units and much more!
